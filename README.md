@@ -35,7 +35,7 @@ AmbedkarGPT-Intern-Task/
 ## 1️⃣ **Clone the Repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/exoexo-1/LLM-RAG-IMPLEMENTATION
 cd AmbedkarGPT-Intern-Task
 ```
 
